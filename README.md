@@ -12,4 +12,4 @@ Traffic IQ is an intelligent traffic analysis and simulation system designed to 
 📉 Congestion heatmap display
 ⚡ Fast and lightweight frontend experience
 📱 Responsive UI for desktop and mobile
-Coming Sooon.........
+Coming Sooon..
